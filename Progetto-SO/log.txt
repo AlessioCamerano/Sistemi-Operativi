@@ -1,0 +1,13 @@
+Tue Feb 27 09:14:17 2024  The inhibitor was created
+Tue Feb 27 09:14:18 2024  Inhibition percentage changed to 89%
+Tue Feb 27 09:14:19 2024  Inhibition percentage changed to 45%
+Tue Feb 27 09:14:20 2024  Inhibition percentage changed to 65%
+Tue Feb 27 09:14:21 2024  Inhibition percentage changed to 54%
+Tue Feb 27 09:14:22 2024  Inhibition percentage changed to 56%
+Tue Feb 27 09:14:23 2024  Inhibition percentage changed to 58%
+Tue Feb 27 09:14:24 2024  Inhibition percentage changed to 50%
+Tue Feb 27 09:14:25 2024  Inhibition percentage changed to 49%
+Tue Feb 27 09:14:26 2024  Inhibition percentage changed to 57%
+Tue Feb 27 09:14:27 2024  Inhibition percentage changed to 27%
+Tue Feb 27 09:14:28 2024  Inhibition percentage changed to 13%
+Tue Feb 27 09:14:28 2024  Terminating...
